@@ -1,0 +1,51 @@
+.bg{background:#2a596f}
+.navbar-brand h5 span{color:yellow;}
+.navbar-brand h5{margin-bottom:0px;}
+.navbar-brand h5{margin-top:10px;}
+.navbar-brand p{font-size:0px;}
+
+.text-muted{font-size:13px;}
+
+.nav-item a{color:#ffffff;}
+
+.dropdown-menu{background:gray;}
+
+.centered {position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);}
+.centered h1{font-weight:bold; color:white;}
+.centered p{font-weight:bold; font-size:30px; color:yellow;}
+
+.carousel-item img{height:560px}
+
+.konten{background:#e1e1e1}
+
+.fitur{font-weight:bold;color:#007bff;}
+
+.courses {font-weight:bold;color:#03425e;}
+
+.testi{background:#dfdfdf}
+.testi h4{font-weight:bold;color:#03425e;}
+
+.footer1{background:#012231}
+.footer1 h5{font-weight:bold;}
+.footer1 .list-group-item{padding:0.50rem 0.25rem;border-color:grey; background:#012231;}
+.footer1 .list-group-item a{color:white;}
+.footer1 hr{border-color:grey;}
+
+.footer2{background:#2a596f}
+.footer2 a span{color:yellow;}
+
+.line { border-top: 0px !important; border:0; }
+
+.about {font-weight:bold;color:#03425e;}
+
+.crd2{background:transparent; border:0px;}
+
+.staf{margin-bottom:30px}
+
+.gambar img{width:470px}
+
+.maps iframe{width:810px;}
+
+.form .carousel-item img{width:500px}
+
+.username{color:white}
